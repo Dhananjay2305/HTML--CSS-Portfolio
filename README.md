@@ -5,7 +5,6 @@ This is a beginner-friendly responsive portfolio website built using HTML and CS
 ## Features
 - Responsive layout (mobile-friendly)
 - Clean UI
-- Suitable for GitHub portfolio
 
 ## Technologies Used
 - HTML5
